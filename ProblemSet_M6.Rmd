@@ -1,7 +1,7 @@
 ---
 title: "STA130H1F -- Fall 2021"
 author: "L. Bolton & S. Caetano"
-subtitle: Module 6 Problem Set - Part 1 Sample Solutions
+subtitle: Module 6 Problem Set 
 output:
   pdf_document: default
 ---
